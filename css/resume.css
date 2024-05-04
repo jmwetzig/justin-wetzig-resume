@@ -10,8 +10,8 @@
 		
 		/* STRUCTURE */
 
-		html {background-color:#444; max-width:100%;}
-		#wrap {width:100%; max-width: 800px; margin:0 auto; background-color:white;}
+		html {background-color:#444;}
+		#wrap {width:100%; max-width: 100%; margin:0 auto; background-color:white;}
 		li {max-width:100%;}
 		header {padding:20px 40px; background-color:#90a499;}
 		header {border-style:solid; border-width:0px; border-bottom-width:5px; border-bottom-color:#333}
